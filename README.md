@@ -1,6 +1,6 @@
 ### Bienvenidos 👋
 
-
+![GIF](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
 <!--
 **jubany/jubany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 -->
 
 Bienvenidos 👋
-
-![GIF](https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif)
 
 Soy alguien apasionado del desarrollo de software y amante de la tecnología. En constante búsqueda de nuevos desafíos para expandir mis habilidades y conocimientos. Creo en la colaboración y el aprendizaje continuo, siempre dispuesto a compartir ideas y ayudar a otros en su viaje de programación. Enamorado de la creación de soluciones innovadoras que mejoren la vida de las personas.
 
