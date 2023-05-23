@@ -1,7 +1,6 @@
 ### Bienvenidos 👋
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700"   /></p>
-
+<p align="center"><img src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="700"   /></p>
 <!--
 **jubany/jubany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
