@@ -16,8 +16,7 @@ Soy alguien apasionado del desarrollo de software y amante de la tecnología. En
 🌱 Actualmente, mi portfolio está en construcción, ¡muy pronto habrá novedades!
 
 
-                                          Conecta conmigo en mis redes!
-                    [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/alejo-jubany-7a707519a/)
+  <a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 
 
 
