@@ -16,9 +16,9 @@ Soy alguien apasionado del desarrollo de software y amante de la tecnología. En
 🌱 Actualmente, mi portfolio está en construcción, ¡muy pronto habrá novedades!
 
                                         Hablamos? presiona el emoticon!!
-   <p Este es mi perfil de linkedin!align="center">
+   <p align="center">
   <a href="https://www.linkedin.com/in/alejo-jubany-7a707519a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alejo jubany" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alejo jubany" height="40" width="50" />
   </a>
 </p>
 
