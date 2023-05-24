@@ -15,6 +15,9 @@ Soy alguien apasionado del desarrollo de software y amante de la tecnología. En
 
 🌱 Actualmente, mi portfolio está en construcción, ¡muy pronto habrá novedades!
 
+🗣️ °Si quieres saber más de mí, no lo dudes y ponte en contacto conmigo! Mi email: jubany4@gmail.com
+
+
 
 
 
