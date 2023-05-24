@@ -17,6 +17,7 @@ Soy alguien apasionado del desarrollo de software y amante de la tecnología. En
 
 
                                           Conecta conmigo en mis redes!
-                     <a href="https://www.linkedin.com/in/alejo-jubany-7a707519a/">&#x1F517;</a>
+                    [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/alejo-jubany-7a707519a/)
+
 
 
