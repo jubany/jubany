@@ -16,5 +16,7 @@ Soy alguien apasionado del desarrollo de software y amante de la tecnología. En
 🌱 Actualmente, mi portfolio está en construcción, ¡muy pronto habrá novedades!
 
 
-Conecta conmigo en mis redes!
+                                          Conecta conmigo en mis redes!
+                     <a href="https://www.linkedin.com/in/alejo-jubany-7a707519a/">&#x1F517;</a>
+
 
