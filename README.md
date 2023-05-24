@@ -17,6 +17,23 @@ Soy alguien apasionado del desarrollo de software y amante de la tecnología. En
 
 🗣️ °Si quieres saber más de mí, no lo dudes y ponte en contacto conmigo! Mi email: jubany4@gmail.com
 
+                           Lenguajes y Tecnologías que utilizo:
+
+                                    -HTML
+                                    -CSS
+                                    -JavaScript
+                                    -React JS
+                                    -Redux
+                                    -Node JS
+                           
+                            Herramientas y Plataformas:
+
+                                    -Slack
+                                    -Trello
+                                    -Jira
+                                    -Wordpress
+                                    -Elementor
+
 
 
 
